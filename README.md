@@ -1,2 +1,2 @@
 # desafio-fullcycle01
-docker push wellingtonex/fullcycle:latest
+docker pull wellingtonex/fullcycle:latest
